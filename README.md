@@ -1,2 +1,2 @@
 # hello-world
-This is my hello world project.
+Hello, I have 2 cats and like coding.
